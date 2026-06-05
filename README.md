@@ -23,12 +23,15 @@ Texas Railroad Commission Production Data Query System.
 - Graph images
 - Raw/cleaned production data
 - Python Notebook
+- PowerPoint
 
 ## Tools Used
 - Microsoft Excel
+- Microsoft PowerPoint
 - Texas Railroad Commission public data
 - Data cleaning and production analysis using python
 - Graphing and visualization
+- LLM
 
 ## Future Work
 Future versions of this project could compare Midland County with Martin, Reeves, Loving, and Howard Counties and include decline curve analysis.

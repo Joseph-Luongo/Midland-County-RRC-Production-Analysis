@@ -21,11 +21,12 @@ Texas Railroad Commission Production Data Query System.
 - Excel analysis workbook
 - Graph images
 - Raw/cleaned production data
+- Python Workbook
 
 ## Tools Used
 - Microsoft Excel
 - Texas Railroad Commission public data
-- Data cleaning and production analysis
+- Data cleaning and production analysis using python
 - Graphing and visualization
 
 ## Future Work

@@ -22,7 +22,7 @@ Texas Railroad Commission Production Data Query System.
 - Excel analysis workbook
 - Graph images
 - Raw/cleaned production data
-- Python Workbook
+- Python Notebook
 
 ## Tools Used
 - Microsoft Excel

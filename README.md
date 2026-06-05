@@ -10,11 +10,12 @@ The goal was to evaluate production trends, identify top operators and fields, a
 Texas Railroad Commission Production Data Query System.
 
 ## Key Findings
-- Oil production increased approximately 26.1% from 2020–2025.
-- Natural gas production increased approximately 78.7% from 2020–2025.
-- Pioneer Natural Resources USA, Inc. was the top producing operator.
-- Spraberry (Trend Area) was the top producing field.
-- The top 10% of leases accounted for approximately 52% of total oil production.
+- 2020 to 2025 oil growth: 26.1%
+- 2020 to 2025 gas growth: 78.7%
+- Top field: SPRABERRY (TREND AREA)
+- Top operator: PIONEER NATURAL RES. USA, INC.
+- Number of leases analyzed: 5,674
+- Top 10% of leases account for: 58.1% of oil production
 
 ## Files Included
 - Final SPE-style technical report PDF

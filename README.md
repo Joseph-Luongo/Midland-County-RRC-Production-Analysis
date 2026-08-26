@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project extends the [Midland County RRC Production Analysis](https://github.com/Joseph-Luongo/Midland-County-RRC-Production-Analysis) into a five-county Permian Basin comparison using public Texas Railroad Commission production data.
+This project extends my previous Midland County RRC Production Analysis into a five-county Permian Basin comparison using public Texas Railroad Commission production data.
 
 **Counties analyzed:** Midland, Martin, Howard, Reeves, and Loving  
 **Period:** January 2020 through March 2026  

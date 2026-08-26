@@ -133,3 +133,4 @@ RRC operator reports aggregate production across the full query period. Historic
 - Jupyter Notebook
 - Microsoft Excel
 - Microsoft PowerPoint
+- LLMs
